@@ -1,4 +1,3 @@
-Certainly! Here's a template for the README file for your Gymbot project:
 # Gymbot: Real-Time Exercise Identification and Form Improvement
 
 ## Overview
