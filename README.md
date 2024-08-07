@@ -19,7 +19,7 @@ Gymbot is a real-time gym assistant designed to help users identify exercises an
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gymbot.git
+    git clone https://github.com/stopthinkin99/gymbot.git
     cd gymbot
     ```
 2. Create and activate a virtual environment:
